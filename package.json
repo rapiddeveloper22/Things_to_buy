@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  }
+}
